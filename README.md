@@ -1,1 +1,1 @@
-# personal_prj_seungjae
+# 루키토끼기쁨팀 안승재 - 방명록 구현
